@@ -1,10 +1,11 @@
 {
   "posts": [
-    {"id": 1, "title": "hello lol", "a": "1.0" },
-    {"id": 2, "title": "post2" },
-    {"id": 3, "title": "post3" }
-    ],
+    {
+      "id": 1,
+      "title": "moro"
+    }
+  ],
   "profile": {
-  "name": "allu545"
+    "name": "allu545"
+  }
 }
-
