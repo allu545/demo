@@ -1,9 +1,6 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "title": "moro"
-    }
+    { "id": 1, "title": "moro" }
   ],
   "profile": {
     "name": "allu545"
